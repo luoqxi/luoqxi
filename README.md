@@ -1,7 +1,13 @@
+<a href="#">
+  <img align="right" src="https://raw.githubusercontent.com/luoqxi/github-stats/002ae14c1e421585799546d12108486093523ba8/generated/languages.svg" />
+</a>
+
 🍓 **About Me**
 
 - 主要使用: Python，Golang，Java，PHP
 - E-mail: luoqxi@outlook.com
+- Languages: English, 中文
+- Other: AI，Deep Learning
 - 《無職轉生》爱好者，洛琪希唯一的神！
 
 ❄️ **Skills**
@@ -13,9 +19,6 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
-🌐 **Languages**
-
-<img src="https://raw.githubusercontent.com/luoqxi/github-stats/002ae14c1e421585799546d12108486093523ba8/generated/languages.svg" />
 
 
 <!--
