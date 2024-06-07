@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://raw.githubusercontent.com/luoqxi/github-stats/002ae14c1e421585799546d12108486093523ba8/generated/languages.svg" />
+  <img align="right" src="https://github.com/luoqxi/github-stats/blob/master/generated/languages.svg" />
 </a>
 
 🍓 **About Me**
